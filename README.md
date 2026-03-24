@@ -1,7 +1,7 @@
 # OpenMP Parallel Programming Coursework 
-**Student:** Luka Bezhashvili
-**University:** Saint Andrew's National Georgian University
-**Course:** Parallel and Distributed Computing (2026)
+- **Student:** Luka Bezhashvili
+- **University:** Saint Andrew's National Georgian University
+- **Course:** Parallel and Distributed Computing (2026)
 
 ---
 
